@@ -1,13 +1,8 @@
-# Cities API
+# API Rest de consulta de cidades do Brasil
 
-## Requirements
+## DESCRIÇÃO
 
-* Linux
-* Git
-* Java 8
-* Docker
-* IntelliJ Community
-* Heroku CLI
+Neste projeto final do Bootcamps Everis Quality Assurance Beginner #3, o desafio de desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. 
 
 ## DataBase
 
@@ -96,14 +91,6 @@ select earth_distance(
 
 * [DevCenter](https://devcenter.heroku.com/articles/getting-started-with-gradle-on-heroku)
 
-## Code Quality
-
-### PMD
-
-+ https://pmd.github.io/pmd-6.8.0/index.html
-
-### Checkstyle
-
 + https://checkstyle.org/
 
 + https://checkstyle.org/google_style.html
@@ -113,3 +100,6 @@ select earth_distance(
 ```shell script
 wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/resources/google_checks.xml
 ```
+## Link do projeto modelo
+
+https://github.com/andrelugomes/digital-innovation-one.git
