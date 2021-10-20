@@ -2,7 +2,7 @@
 
 ## DESCRIÇÃO
 
-Neste projeto final do Bootcamps Everis Quality Assurance Beginner #3, o desafio de desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. 
+Neste projeto final do Bootcamp Everis Quality Assurance Beginner #3, o desafio de desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. 
 
 ## DataBase
 
